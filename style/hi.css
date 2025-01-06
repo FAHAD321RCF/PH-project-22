@@ -10,3 +10,11 @@ div{
     color: brown;
     background-color:aqua;
 }
+
+header{
+
+    background-image: url('NationalGeographic_1468962_3x4.avif');
+    width: 200px;
+    height: 200px;
+    background-position:right
+}
